@@ -18,7 +18,7 @@ You can add this library to your project with Maven.
 	    <groupId>com.github.RealCerus</groupId>
 	    <artifactId>better-components</artifactId>
 	    <version>Tag</version>
-        <scope>compile</scope>
+	    <scope>compile</scope>
 	</dependency>
 </dependencies>
 ```
@@ -43,4 +43,4 @@ You can add this library to your project with Maven.
 ```
 
 ## Usage
-Check the examples package.
+Check the [examples package](https://github.com/RealCerus/better-components/tree/master/src/main/java/examples).
